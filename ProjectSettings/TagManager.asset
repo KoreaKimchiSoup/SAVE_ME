@@ -3,7 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FishingRod
+  - Default
+  - CaveTrigger
+  - Tree
+  - FOOD
+  - WEAPON
+  - PLAYER
+  - WoodStick
+  - Rock
+  - PREDATOR
+  - VITAL
+  - Animal
+  - Grab
+  - TrimmedWoodStick
+  - TrimmedRock
+  - Vine
   layers:
   - Default
   - TransparentFX
@@ -11,14 +27,14 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PREDATOR
+  - WEAPON
+  - Object
+  - Terrain
+  - WoodStick
+  - Crafting
+  - LeftController
+  - RightController
   - 
   - 
   - 
