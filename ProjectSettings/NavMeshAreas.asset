@@ -11,7 +11,11 @@ NavMeshProjectSettings:
     cost: 1
   - name: Jump
     cost: 2
+<<<<<<< HEAD
   - name: WildBoarArea
+=======
+  - name: 
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
     cost: 1
   - name: 
     cost: 1
@@ -71,7 +75,11 @@ NavMeshProjectSettings:
     cost: 1
   m_LastAgentTypeID: -887442657
   m_Settings:
+<<<<<<< HEAD
   - serializedVersion: 3
+=======
+  - serializedVersion: 2
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
     agentTypeID: 0
     agentRadius: 0.5
     agentHeight: 2
@@ -84,9 +92,13 @@ NavMeshProjectSettings:
     cellSize: 0.16666667
     manualTileSize: 0
     tileSize: 256
+<<<<<<< HEAD
     buildHeightMesh: 0
     maxJobWorkers: 0
     preserveTilesOutsideBounds: 0
+=======
+    accuratePlacement: 0
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
     debug:
       m_Flags: 0
   m_SettingNames:

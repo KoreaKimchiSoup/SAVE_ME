@@ -11,6 +11,7 @@ TagManager:
   - FOOD
   - WEAPON
   - PLAYER
+<<<<<<< HEAD
   - WoodStick
   - Rock
   - PREDATOR
@@ -20,6 +21,8 @@ TagManager:
   - TrimmedWoodStick
   - TrimmedRock
   - Vine
+=======
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
   layers:
   - Default
   - TransparentFX
@@ -28,6 +31,7 @@ TagManager:
   - Water
   - UI
   - PREDATOR
+<<<<<<< HEAD
   - WEAPON
   - Object
   - Terrain
@@ -35,6 +39,15 @@ TagManager:
   - Crafting
   - LeftController
   - RightController
+=======
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
   - 
   - 
   - 

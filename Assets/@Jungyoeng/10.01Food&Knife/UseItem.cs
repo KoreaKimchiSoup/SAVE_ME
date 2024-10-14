@@ -16,7 +16,11 @@ public class UseItem : MonoBehaviour
     StateManager stateManager;
 
     // 오른쪽 컨트롤러에 음식이 있는지 판별하는 변수
+<<<<<<< HEAD
     // bool isFoodGrab;
+=======
+   // bool isFoodGrab;
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
     IXRSelectInteractable grabbedObject;
 
     [SerializeField]
@@ -43,6 +47,10 @@ public class UseItem : MonoBehaviour
         }
     }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
     // 오브젝트가 선택되었을 때 실행하는 함수
     private void HandleSelectEntered(SelectEnterEventArgs arg)
     {
@@ -50,13 +58,20 @@ public class UseItem : MonoBehaviour
         grabbedObject = arg.interactableObject;
     }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
     // 오브젝트가 선택 해제되었을 때 실행하는 함수
     private void HandleSelectExited(SelectExitEventArgs arg)
     {
        // isFoodGrab = false;
         grabbedObject = null;
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
     //들고 있는 아이템을 사용하는 함수
     void EatFood(IXRSelectInteractable interactableObject)
     {
@@ -138,8 +153,14 @@ public class UseItem : MonoBehaviour
             stateManager.rainWater();
             Destroy(GameObject.Find("RainWater"));
         }
+<<<<<<< HEAD
     }
 
+=======
+
+
+    }
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
     //오른쪽 컨트롤러 A버튼을 눌렀을 때.
     public void RighT_A(InputAction.CallbackContext context)
     {
@@ -158,7 +179,10 @@ public class UseItem : MonoBehaviour
             }
         }
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
     private void OnEnable()
     {
         AButton.action.performed += RighT_A;

@@ -1,5 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< HEAD
 --- !u!1 &3828642320138029311
 GameObject:
   m_ObjectHideFlags: 0
@@ -99,6 +100,8 @@ MonoBehaviour:
   m_UIHoverExited:
     m_PersistentCalls:
       m_Calls: []
+=======
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
 --- !u!1001 &2863446611106501643
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -197,6 +200,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
+<<<<<<< HEAD
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 56186ccf27ad7864681108ed88349071, type: 3}
       insertIndex: -1
@@ -213,3 +217,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8494328768516585249, guid: 56186ccf27ad7864681108ed88349071, type: 3}
   m_PrefabInstance: {fileID: 2863446611106501643}
   m_PrefabAsset: {fileID: 0}
+=======
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 56186ccf27ad7864681108ed88349071, type: 3}
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c

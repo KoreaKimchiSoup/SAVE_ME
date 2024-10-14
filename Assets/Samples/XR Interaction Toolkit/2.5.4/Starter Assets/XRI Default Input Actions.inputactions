@@ -689,7 +689,11 @@
                 {
                     "name": "",
                     "id": "5481a41d-f32f-4126-b2fc-a01fbc226470",
+<<<<<<< HEAD
                     "path": "<XRController>{LeftHand}/secondaryButton",
+=======
+                    "path": "<XRController>{LeftHand}/{GripButton}",
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -801,6 +805,7 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
+<<<<<<< HEAD
                 },
                 {
                     "name": "GameMenuOpenKey",
@@ -810,6 +815,8 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+=======
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
                 }
             ],
             "bindings": [
@@ -977,6 +984,7 @@
                     "action": "Scale Delta",
                     "isComposite": false,
                     "isPartOfComposite": false
+<<<<<<< HEAD
                 },
                 {
                     "name": "",
@@ -988,6 +996,8 @@
                     "action": "GameMenuOpenKey",
                     "isComposite": false,
                     "isPartOfComposite": false
+=======
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
                 }
             ]
         },

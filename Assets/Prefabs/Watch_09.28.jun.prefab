@@ -437,6 +437,10 @@ MonoBehaviour:
   skyboxDay: {fileID: 2800000, guid: 97c83ef8555216848ba4f98a7496a917, type: 3}
   skyboxSunset: {fileID: 2800000, guid: 846cce7d90ad21b4b80fcb937193081e, type: 3}
   skyboxNight: {fileID: 2800000, guid: 6185794ad33085a4a9f8446781cb8f15, type: 3}
+<<<<<<< HEAD
+=======
+  Sun: {fileID: 0}
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
   timeMultiplier: 1000
   startHour: 6
   timeText: {fileID: 1155092119415080028}
@@ -444,6 +448,11 @@ MonoBehaviour:
   sunLight: {fileID: 0}
   sunriseHour: 6
   sunsetHour: 18
+<<<<<<< HEAD
+=======
+  dayAmbientLight: {r: 0, g: 0, b: 0, a: 0}
+  nightAmbientLight: {r: 0.2264151, g: 0.14845142, b: 0.14845142, a: 0}
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
   lightChangeCurve:
     serializedVersion: 2
     m_Curve:
@@ -468,6 +477,12 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
+=======
+  maxSunLightIntensity: 100
+  moonLight: {fileID: 0}
+  maxMoonLightIntensity: 0
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
 --- !u!114 &6549506636487157743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -492,7 +507,10 @@ MonoBehaviour:
   EnergyText: {fileID: 2737200102946772637}
   WaterText: {fileID: 5646225280892207540}
   ExhastionText: {fileID: 3140769746180376471}
+<<<<<<< HEAD
   fadeCamera: {fileID: 0}
+=======
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
 --- !u!1 &1256540554794788083
 GameObject:
   m_ObjectHideFlags: 0
@@ -997,9 +1015,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d7c65c09994bd54ba961956e3bacbd5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   controllerDiscription: {fileID: 0}
   SwitchWindowMapping: {fileID: 2531212666790269517, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   playerPos: {fileID: 290298876105485908, guid: 69fe26044b77e8a428108855618a45ef, type: 3}
+=======
+  SwitchWindowMapping: {fileID: 2531212666790269517, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
 --- !u!1 &4348486976308631238
 GameObject:
   m_ObjectHideFlags: 0

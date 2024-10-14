@@ -116,7 +116,10 @@ public class VelocityTracker : MonoBehaviour
         else
         {
             fishingVirtualHook.SetActive(false);
+<<<<<<< HEAD
             yield break;
+=======
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
         }
 
         yield return null;

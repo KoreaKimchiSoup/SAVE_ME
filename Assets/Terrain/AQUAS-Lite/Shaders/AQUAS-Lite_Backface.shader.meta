@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 42e2b36e50a97ce4cbf4364d607d4b58
+=======
+guid: 6c5f1c7411ec6004fb354db7ff23d494
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
 timeCreated: 1570902635
 licenseType: Store
 ShaderImporter:

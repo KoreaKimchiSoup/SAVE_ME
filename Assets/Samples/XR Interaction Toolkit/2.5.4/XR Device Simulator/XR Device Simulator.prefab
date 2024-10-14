@@ -11,13 +11,21 @@ GameObject:
   - component: {fileID: 6598815579406187027}
   - component: {fileID: 6598815579406187026}
   - component: {fileID: 1364089763847215958}
+<<<<<<< HEAD
   m_Layer: 6
+=======
+  m_Layer: 0
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
   m_Name: XR Device Simulator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
+<<<<<<< HEAD
   m_IsActive: 1
+=======
+  m_IsActive: 0
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
 --- !u!4 &6598815579406187027
 Transform:
   m_ObjectHideFlags: 0

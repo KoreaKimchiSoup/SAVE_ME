@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 9544bcabd3d71f647932b09187c8ffd0
+=======
+guid: 9b7e89e5ba78d8d4298fe9657e8f6b87
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
 timeCreated: 1515601473
 licenseType: Store
 TextureImporter:

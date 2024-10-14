@@ -99,9 +99,13 @@ MonoBehaviour:
   - {fileID: 3720986475451977111}
   - {fileID: -8275928512012390280}
   - {fileID: 3485045755563217148}
+<<<<<<< HEAD
   - {fileID: -2093685605989004445}
   - {fileID: -6586437280711987451}
   - {fileID: 1560630876564674934}
+=======
+  - {fileID: -6586437280711987451}
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
   - {fileID: -7633283939610287031}
   - {fileID: -4877233012482368896}
   - {fileID: 5286115457050685632}
@@ -330,6 +334,7 @@ MonoBehaviour:
   optimizeBufferDiscards: 1
   lateLatchingMode: 0
   lateLatchingDebug: 0
+<<<<<<< HEAD
 --- !u!114 &-4833366193391519788
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -351,6 +356,8 @@ MonoBehaviour:
   priority: 0
   required: 0
   message: Hello from C#!
+=======
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
 --- !u!114 &-3696845487832668220
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -412,9 +419,13 @@ MonoBehaviour:
   - {fileID: -6888698897705761280}
   - {fileID: 1499628407096407183}
   - {fileID: -5301358013286832894}
+<<<<<<< HEAD
   - {fileID: -4833366193391519788}
   - {fileID: -5614779814750750780}
   - {fileID: 8555955396221556391}
+=======
+  - {fileID: -5614779814750750780}
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
   - {fileID: 8650949486594459746}
   - {fileID: 4447653102207353318}
   - {fileID: -3149312794983226847}
@@ -449,6 +460,7 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
+<<<<<<< HEAD
 --- !u!114 &-2093685605989004445
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -470,6 +482,8 @@ MonoBehaviour:
   priority: 0
   required: 0
   message: Hello from C#!
+=======
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
 --- !u!114 &-843315427317511665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -608,6 +622,7 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
+<<<<<<< HEAD
 --- !u!114 &1560630876564674934
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -628,6 +643,8 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
+=======
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
 --- !u!114 &1670973174496925730
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -873,6 +890,7 @@ MonoBehaviour:
   required: 0
   cacheSize: 1048576
   perThreadCacheSize: 51200
+<<<<<<< HEAD
 --- !u!114 &8555955396221556391
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -893,6 +911,8 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
+=======
+>>>>>>> 958cb0710d1caf50c64f1259666055c536bb8b0c
 --- !u!114 &8650949486594459746
 MonoBehaviour:
   m_ObjectHideFlags: 0
